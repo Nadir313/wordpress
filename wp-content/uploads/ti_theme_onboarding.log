@@ -1,0 +1,17 @@
+[23/Mar/2022:12:00:15] (I): WordPress Instance Info:
+[23/Mar/2022:12:00:15] (I): Home URL : http://localhost/wordpress
+[23/Mar/2022:12:00:15] (I): Site URL : http://localhost/wordpress
+[23/Mar/2022:12:00:15] (I): WordPress Version : 5.9.2
+[23/Mar/2022:12:00:15] (I): Onboarding Version : 1.1.21
+[23/Mar/2022:12:00:15] (I): Multisite : No
+[23/Mar/2022:12:00:15] (I): Server Info : Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.2
+[23/Mar/2022:12:00:15] (I): PHP Version : 8.1.2
+[23/Mar/2022:12:00:15] (I): HTTPS : No
+[23/Mar/2022:12:00:15] (I): PHP Max Execution Time : 120
+[23/Mar/2022:12:00:15] (I): PHP Max Input Vars : 1000
+[23/Mar/2022:12:00:15] (I): Max Upload Size : 41943040
+[23/Mar/2022:12:00:15] (I): Plugins:
+[23/Mar/2022:12:00:15] (I): [PLUGIN] Starter Templates : v3.1.7 (Brainstorm Force)
+[23/Mar/2022:12:00:15] (I): [PLUGIN] Contact Form 7 : v5.5.6 (Takayuki Miyoshi)
+[23/Mar/2022:12:00:15] (I): [PLUGIN] MetaSlider : v3.27.3 (MetaSlider)
+[23/Mar/2022:12:00:15] (I): [PLUGIN] Templates Patterns Collection : v1.1.21 (ThemeIsle)
